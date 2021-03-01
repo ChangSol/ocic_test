@@ -18,7 +18,7 @@ namespace ocic_test
         //unitFactory[0] 인덱스가 사용자1
         //unitFactory[1] 인덱스가 사용자2 로 가정
         //사용자 테이블없이 진행
-
+        //test
         public MainForm()
         {
             InitializeComponent();
